@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f74bce71-2cd9-41c9-8f7d-d2f6567751d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23/.idea/23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24/.idea/24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../24/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/.idea/25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../25/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-1 /.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-1 /.idea/exercicio-nivel8-1 .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-1 /.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-1 /.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-1 /main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-2/.idea/exercicio-nivel8-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-2/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-2/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-nivel8-3/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../05/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../06/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../07/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../08 /main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../08 /main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../09/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../10/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../11/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../12/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../13/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../14/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../15/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../16/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../17/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../18/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../19/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../20/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../21/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../22/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-01/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-01/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-02/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-02/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-03/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-03/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-04/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-04/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-05/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-05/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-06/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-06/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-07/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-07/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-08/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-08/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel3-09/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel3-09/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel4-01/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel4-01/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel4-03/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel4-03/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel4-04/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel4-04/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel4-05/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel4-05/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel4-06/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel4-06/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel4-07/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel4-07/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel4-08/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel4-08/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel5-01/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel5-01/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel5-03/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel5-03/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-01/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-01/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-02/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-02/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-03/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-03/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-04/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-04/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-05/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-05/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-06/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-06/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-07/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-07/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-08/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-08/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-09/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-09/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel6-10/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel6-10/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel7-1/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel7-1/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio-nivel7-2/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-nivel7-2/main/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2crLMYCmfSzkRc87ZlS9M5qnjm8" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build main.go.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/leandro",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="exercicio-nivel8-4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="exercicio-nivel8-4" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-2946fb9b3188-155fe4b6e3a0-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-233.14475.38" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
